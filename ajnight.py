@@ -22,7 +22,7 @@ import os
 
 try:
 
-	import requestsexcept ImportError:
+	 requestsexcept
 
 	os.system("pip install requests")
 
@@ -170,7 +170,7 @@ class Main:
 
                                                                                                                                 
 
-                                                                                                                                
+                                                                                  
 
                                                                                                                                 
 
@@ -184,7 +184,7 @@ class Main:
 
    
 
-   
+
 
                                                       
 
